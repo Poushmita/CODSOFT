@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+/* .slide{
+    height: 40%;
+    width: 100%;
+} */
+.two{
+    background-color: aqua;
+    height:650px;
+    width: 100%;
+}
+.three{
+    background-color: gold;
+    height: 580px;
+    width: 100%;
+}
+.four{
+    background-color: aqua;
+    height: 580px;
+    width: 100%;
+}
+.five{
+    background-color: gold;
+    height: 800px;
+    width: 100%;
+}
+.six{
+    background-color: aqua;
+    height: 150px;
+    width: 100%;
+}
+.seven{
+    background-color: gold;
+    height: 580px;
+    width: 100%;
+}
+.eight{
+    background-color: aqua;
+    height: 400px;
+    width: 100%;
+}
